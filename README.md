@@ -30,10 +30,9 @@ I create fast, simple and solid websites, like the poster says :bowtie:
 - Working as a freelancer and loving it!
 
 
-## My stuff
-### Check out my work on my portfolio page;
+## Check out my work on my portfolio page;
 
-[My portfolio page](https://portfolio-mariushesby.vercel.app/)
+[portfolio-mariushesby.vercel.app](https://portfolio-mariushesby.vercel.app/)
 
 
-## Thanks for scrolling all the way to the end :octocat:
+### Thanks for scrolling all the way to the end :octocat:
