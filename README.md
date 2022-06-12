@@ -1,6 +1,6 @@
 ### Hello and welcome to my readme.md :punch:
 
-![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/project-js-frameworks.png)
+![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/readme-top-image.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
