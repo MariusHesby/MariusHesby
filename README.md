@@ -1,4 +1,4 @@
-### Hello and welcome to my readme.md :punch:
+### Hello, and welcome to my readme.md :bowtie:
 
 ![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/readme-top-image.jpg)
 
