@@ -1,7 +1,7 @@
 ### Hello, I'm Marius :bowtie:
 
 
-![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/readme-top-image.png)
+![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/readme-top-image.svg)
 
 
 ## who me??
