@@ -3,7 +3,10 @@
 
 ![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/readme-top-image.jpg)
 
-Who me? Happily married to my wife. We have to amazing kids. We live in.. oh!! You want to know what I do?
+
+## who me??
+
+Happily married to my wife. We have to amazing kids. We live in.. oh!! You want to know what I do?
 I create fast, simple and solid websites, like the poster says :bowtie:
 
 
@@ -16,9 +19,9 @@ I create fast, simple and solid websites, like the poster says :bowtie:
 
 ## My passion
 
-I love to create webdesigns using Adobe XD.
-I love to create websites that are fast, solid and simple.
-I love to use Next.js and Tailwind CSS to do it.
+- I love to create webdesigns using Adobe XD.
+- I love to create websites that are fast, solid and simple.
+- I love to use Next.js and Tailwind CSS to do it.
 
 
 ## Right now?
