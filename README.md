@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello and welcome to my readme.md :punch:
 
-<!--
-**MariusHesby/mariushesby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/project-js-frameworks.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
