@@ -2,6 +2,10 @@
 
 ![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/readme-top-image.jpg)
 
+Who me? Happily married to my wife. We have to amazing kids. We live in.. oh!! You want to know what I do?
+I create simple and solid websites, like the poster says :bowtie:
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
