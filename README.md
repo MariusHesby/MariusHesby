@@ -20,8 +20,8 @@ I create fast, simple and solid websites, like the poster says :bowtie:
 ## My passion?
 
 - I love to create webdesigns using Adobe XD.
-- I love to create websites that are fast, solid and simple.
-- I love to use Next.js and Tailwind CSS to do it.
+- I love to create websites that are fast, solid and simple (or did I mention that already).
+- I love to use Next.js and Tailwind CSS to do it (why? 'cause it's super fast man).
 
 
 ## Right now?
@@ -29,9 +29,11 @@ I create fast, simple and solid websites, like the poster says :bowtie:
 - I just finished 2 years at Noroff, studying frontend development.
 - Working as a freelancer and loving it!
 
+
 ## My stuff
 ### Check out my work on my portfolio page;
 
 [My portfolio page](https://portfolio-mariushesby.vercel.app/)
 
-## Thanks for scrolling all the way to the end ## My stuff
+
+## Thanks for scrolling all the way to the end :octocat:
